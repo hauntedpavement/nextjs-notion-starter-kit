@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'InfoGeo: open data mapped',
 
   // social usernames (optional)
-  twitter: 'NA',
-  github: 'opengeomapper',
-  linkedin: 'NA',
+  // twitter: 'NA',
+  github: 'hauntedpavement',
+  // linkedin: 'NA',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
